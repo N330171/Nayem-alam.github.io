@@ -13,7 +13,7 @@ It showcases my skills, projects, and contact information in a clean and simple 
 
 ## 🚀 Live Website
 
-👉 https://yourusername.github.io
+👉 https://Nayem-alam.github.io
 
 ---
 
@@ -45,8 +45,8 @@ It showcases my skills, projects, and contact information in a clean and simple 
 
 ## 📫 Contact Me
 
-- Email: your-email@example.com  
-- GitHub: https://github.com/yourusername  
+- Email: mdnayemalam2@gmail.com
+- GitHub: https://github.com/Nayemalam 
 
 ---
 
