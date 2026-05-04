@@ -1,0 +1,11 @@
+remote_theme: pages-themes/minimal@v0.2.0
+
+plugins:
+  - jekyll-remote-theme
+
+title: "MD. Nayem Alam"
+description: "CSE Student | Aspiring Data Scientist | Developer"
+
+show_downloads: true
+
+google_analytics: ""
